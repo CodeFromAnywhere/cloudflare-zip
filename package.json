@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@zip.js/zip.js": "^2.7.54"
+  }
+}

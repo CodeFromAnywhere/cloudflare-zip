@@ -1,0 +1,7 @@
+name = "zip-processor"
+main = "main.ts"
+compatibility_date = "2023-01-01"
+
+[[r2_buckets]]
+bucket_name = "zip-cache"
+binding = "zip_cache"
